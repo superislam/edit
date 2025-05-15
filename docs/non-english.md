@@ -17,7 +17,7 @@
 * [arabic-reddit-extension](https://github.com/andronasef/arabic-reddit-extension) - Fix Arabic Language on Reddit
 
 ## ▷ Downloading / تحميل
-
+* [Zyzoom](https://forum.zyzoom.net/) - Softwares / Systems / Cracks / Books / Design
 * [Stardiima](https://e.stardiima.top/) - Movies / TV / [Telegram](https://t.me/stardima_vip)
 * [arteenz](https://www.arteenz.com/) - Cartoons / Anime / Dub / 720p
 * [ArabicFonts](https://arabicfonts.net/) or [ARFonts](https://www.arfonts.net/) - Fonts
