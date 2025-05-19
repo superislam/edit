@@ -121,6 +121,7 @@
 * [Atlus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - WhatsApp Clients
 * [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter), [2](https://wts.knugi.dev/) - WhatsApp HTML Chat Exporter / Root Required
 * [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApp Read Receipts & Presence Updates
+* [WA Incognito - Turn Off Read Receipts & WhatsApp Status Saver | WASBB.COM](https://chromewebstore.google.com/detail/wa-incognito-turn-off-rea/cpadpjmlbomfjegpjefpbemaacclaelh?hl=en)
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [Guildbit](https://guildbit.com/) - Voice Chat Servers
 * [MiroTalk](https://p2p.mirotalk.com/) / [2](https://mirotalk.up.railway.app/) or [MiroTalk SFU](https://sfu.mirotalk.com/) - Video Chat / [GitHub](https://github.com/miroslavpejic85/mirotalk)
